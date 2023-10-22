@@ -8,6 +8,11 @@ git init - This initialises and creates a git repository only on that pc in the 
 git add – added the files in the folder to the repository
 git status- checked to see if the files in the folder were committed
 git remote- adding the git remote repository so my git file and changed will be uploaded for review
+ 
+git commit – committing the files to the remote repository.
+ 
+git push- pushing the default branch main
+
 
 
 
