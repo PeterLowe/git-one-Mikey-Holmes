@@ -14,7 +14,22 @@ git commit – committing the files to the remote repository.
 git branch – creating a branch to be pushed
 
  
-git push- pushing the default branch main
+git push- pushing the default branch main 
+
+
+
+
+
+
+ 
+git clone- to clone the repository in use
+ 
+git pull – to update local repository with changes to remote repository.
+ 
+git merge – to merge the branches in the repository
+ 
+git log – this displayed my committed snapshots
+
 
 
 
