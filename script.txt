@@ -1,0 +1,13 @@
+Git Lab 1 – Mikey Holmes
+
+
+ 
+git init - This initialises and creates a git repository only on that pc in the local file.
+
+ 
+git add – added the files in the folder to the repository
+git status- checked to see if the files in the folder were committed
+git remote- adding the git remote repository so my git file and changed will be uploaded for review
+
+
+
